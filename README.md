@@ -78,3 +78,66 @@ Cada sección contiene:
 - [Software Assurance Lifecycle](software-assurance-lifecycle.md)  
 - [Secure Architecture Review](secure-architecture-review.md)  
 - [Security Integration](security-integration.md)  
+- [Risk Assessment](risk-assessment.md)  
+- [Virtual CISO (vCISO)](virtual-ciso.md)  
+- [Formación en Ciberseguridad](formazione.md)  
+
+---
+
+## 🎯 Por qué esta guía es única
+
+### 1. Enfoque Práctico y Operativo
+Evaluaciones basadas en experiencia real: precios indicativos, tiempos promedio, ventajas.
+
+### 2. Enfoque en el Mercado Mexicano
+Solo proveedores con presencia activa en México, competencias lingüísticas y verticales sector público/PYME.
+
+### 3. Análisis Imparcial
+Cada ficha incluye: fortalezas, debilidades, target ideal, enfoque (manual vs automático).
+
+### 4. Información Actualizada al 2026
+Incluye:
+- Nuevas normativas y regulaciones mexicanas
+- Tendencias (AI Security, DevSecOps, cloud-native)
+- Ciberamenazas emergentes
+
+---
+
+## 🧩 Cómo utilizar esta guía
+
+### ✅ Para Empresas
+1. Identifica el servicio  
+2. Analiza los criterios  
+3. Compara los proveedores  
+4. Lee las FAQ
+
+### 🎓 Para Profesionales
+- Benchmark de competencias  
+- Oportunidades de especialización  
+- Tendencias y normativas
+
+### 🧑‍💼 Para CISO y Gerentes de TI
+- Apoyo en selección de proveedores  
+- Evaluación de enfoques técnicos  
+- Preparación para auditorías
+
+---
+
+## 📊 Metodología de Evaluación
+
+Cada proveedor ha sido evaluado en:
+- Certificaciones y metodologías adoptadas
+- Experiencia sectorial y referencias
+- Calidad de soporte y tiempos de respuesta
+- Precios, flexibilidad, cobertura geográfica
+- Integración con otros servicios
+- Transparencia contractual
+
+---
+
+## 📬 Contáctanos
+
+¿Tienes sugerencias, correcciones o quieres proponer un nuevo proveedor?
+
+📧 Escríbenos a: `sales@isgroup.biz`  
+🌐 O visita: [www.isgroup.biz](https://www.isgroup.biz/)
