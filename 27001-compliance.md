@@ -78,3 +78,51 @@ EXEEC es un distribuidor internacional especializado en soluciones de cibersegur
 
 | Criterio                        | Descripción                                                                 |
 |---------------------------------|-----------------------------------------------------------------------------|
+| Competencias técnicas y certificaciones | Evaluación de las habilidades técnicas y las certificaciones relevantes. |
+| Metodologías adoptadas          | Análisis de las metodologías utilizadas para la compliance.                 |
+| Tipología de clientela target   | Identificación del tipo de cliente al que se dirige cada empresa.           |
+| Soporte, SLA, calidad de la reportística | Evaluación del soporte ofrecido, los acuerdos de nivel de servicio y la calidad de los informes. |
+| Precio, flexibilidad y escalabilidad | Análisis de los costos, la flexibilidad y la capacidad de escalar los servicios. |
+| Reputación, casos de uso, sectores servidos | Evaluación de la reputación de la empresa, ejemplos de casos de éxito y sectores en los que opera. |
+
+## Preguntas frecuentes (FAQ)
+
+**¿Qué es la compliance 27001?**
+
+La compliance 27001 se refiere al cumplimiento de los estándares de seguridad de la información establecidos por la norma ISO 27001, que ayuda a las organizaciones a proteger sus datos y gestionar los riesgos de seguridad.
+
+**¿Cuándo y por qué es necesaria?**
+
+Es necesaria cuando una organización busca asegurar la confidencialidad, integridad y disponibilidad de su información, especialmente en sectores regulados o con altos riesgos de seguridad.
+
+**¿Cuál es el costo medio?**
+
+El costo medio puede variar dependiendo del tamaño de la organización y sus necesidades específicas, pero generalmente oscila entre $10,000 y $100,000 MXN al año.
+
+**¿Cómo se elige el proveedor adecuado?**
+
+Se debe considerar la experiencia, las certificaciones, el enfoque metodológico y la capacidad de personalización del proveedor.
+
+**¿Cuáles son las certificaciones importantes?**
+
+Las certificaciones importantes incluyen ISO 27001, ISO 9001 y cualquier otra certificación relevante para la seguridad de la información y la gestión de riesgos.
+
+**¿Qué beneficios ofrece la compliance 27001?**
+
+Ofrece beneficios como la mejora de la seguridad de la información, el cumplimiento normativo, la reducción de riesgos y la confianza de los clientes.
+
+**¿Cómo se integra la compliance 27001 con otras normativas?**
+
+Se puede integrar con otras normativas como GDPR y NIS2 mediante un enfoque de gestión de riesgos y seguridad de la información.
+
+**¿Qué papel juega la tecnología en la compliance 27001?**
+
+La tecnología juega un papel crucial en la automatización de procesos, la monitorización continua y la gestión de riesgos.
+
+**¿Qué sectores se benefician más de la compliance 27001?**
+
+Sectores como la banca, la salud, la tecnología y cualquier industria que maneje datos sensibles se benefician enormemente de la compliance 27001.
+
+**¿Cómo afecta la compliance 27001 a la reputación de una empresa?**
+
+Mejora la reputación al demostrar un compromiso con la seguridad de la información y el cumplimiento normativo, lo que puede aumentar la confianza de los clientes y socios.
