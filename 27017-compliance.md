@@ -78,3 +78,57 @@ EXEEC es un distribuidor internacional especializado en soluciones de cibersegur
 
 ---
 
+## Criterios de evaluación
+
+| Criterio                        | Descripción                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Competencias técnicas y certificaciones | Evaluación de las habilidades técnicas y certificaciones relevantes.        |
+| Metodologías adoptadas         | Análisis de las metodologías utilizadas para garantizar la compliance.      |
+| Tipología de clientela target  | Identificación del tipo de cliente ideal para cada proveedor.               |
+| Soporte, SLA, calidad de la reportística | Evaluación del soporte ofrecido, acuerdos de nivel de servicio y calidad de los reportes. |
+| Precio, flexibilidad y escalabilidad | Análisis de los costos, flexibilidad y capacidad de adaptación de los servicios. |
+| Reputación, casos de uso, sectores servidos | Evaluación de la reputación del proveedor, casos de éxito y sectores en los que opera. |
+
+---
+
+## Preguntas frecuentes (FAQ)
+
+### ¿Qué es la Compliance 27017?
+
+Es la conformidad con el estándar ISO/IEC 27017, que define controles de seguridad específicos para los servicios cloud.
+
+### ¿Cuándo y por qué es necesaria?
+
+Es crucial para proteger datos en la nube, reducir riesgos y cumplir con normativas como GDPR, DORA y regulaciones locales mexicanas.
+
+### ¿Cuál es el costo promedio para obtener la conformidad?
+
+Depende del tamaño, nivel de madurez y proveedor elegido. Las boutiques especializadas parten desde $8,000 USD, los grandes proveedores superan los $25,000 USD.
+
+### ¿Cómo se elige el proveedor adecuado?
+
+Evalúa experiencia cloud, certificaciones, enfoque (personalizado o estándar), referencias y soporte ofrecido.
+
+### ¿Cuáles certificaciones son importantes?
+
+ISO/IEC 27001, 27017, SOC 2, CISSP, OSCP, CEH.
+
+### ¿Qué diferencia hay entre ISO 27001 e ISO 27017?
+
+27001 es un estándar general para la seguridad de la información; 27017 se aplica específicamente a los servicios cloud.
+
+### ¿Qué proveedores cloud son compatibles con ISO 27017?
+
+AWS, Azure, GCP, IBM Cloud y Oracle Cloud tienen certificaciones o declaraciones de conformidad ISO/IEC 27017.
+
+### ¿Puedo certificarme aunque use múltiples proveedores?
+
+Sí, pero se necesita una estrategia multi-cloud con gobernanza unificada y control de riesgos.
+
+### ¿Se necesita el soporte de un vCISO?
+
+Es recomendable para las PYMEs o empresas sin equipo interno experto en normativas y seguridad cloud.
+
+### ¿ISGroup es adecuada también para startups?
+
+Sí, en particular para startups con necesidades de seguridad elevadas (fintech, healthtech, SaaS cloud-native).
