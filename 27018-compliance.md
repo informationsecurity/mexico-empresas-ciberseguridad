@@ -78,3 +78,58 @@ El servicio cloud de Telecom México está certificado ISO/IEC 27018 y pensado p
 EXEEC es un distribuidor internacional especializado en soluciones de ciberseguridad de alta eficacia, ideal para grandes organizaciones con entornos críticos. Ofrece competencias verticales, compliance y solidez operativa. Su portafolio incluye herramientas de cifrado, logging, gestión de identidades y compliance automatizada.
 
 ---
+
+## Criterios de evaluación
+
+| Criterio                        | Descripción                                                                 |
+|---------------------------------|-----------------------------------------------------------------------------|
+| **Competencias técnicas**       | Certificaciones ISO, experiencia en cloud security, equipo certificado     |
+| **Metodologías**                | Gap analysis, auditoría, control de accesos, clasificación de datos       |
+| **Clientela objetivo**          | PYMES, enterprise, administración pública, entornos regulados             |
+| **Soporte y reportes**          | Calidad de la documentación, remediación, soporte continuo                |
+| **Flexibilidad y precio**       | Servicios personalizados, escalabilidad, modularidad                      |
+| **Reputación**                  | Casos de estudio, testimonios, certificaciones obtenidas                  |
+
+---
+
+## Preguntas frecuentes (FAQ)
+
+### ¿Qué es la Compliance 27018?
+
+La ISO/IEC 27018 es un estándar internacional para la protección de datos personales (PII) en servicios cloud. Especifica controles técnicos, contractuales y organizacionales que los proveedores deben adoptar para garantizar privacidad y seguridad.
+
+### ¿Cuándo y por qué es necesaria?
+
+Es fundamental para quien gestiona datos personales en la nube, especialmente en sectores regulados o con clientes europeos. Permite demostrar accountability y adherencia al GDPR.
+
+### ¿Cuál es el costo promedio?
+
+Depende del nivel de personalización, de la complejidad del entorno cloud y del estado actual de la documentación. Las PYMES pueden partir de algunos miles de pesos, las grandes empresas de decenas de miles.
+
+### ¿Cómo se elige el proveedor adecuado?
+
+Evalúa la experiencia, las certificaciones, el soporte post-auditoría y la capacidad de adaptarse a tus necesidades específicas. La checklist de esta guía te ayuda a comparar las alternativas de manera estructurada.
+
+### ¿Cuáles son las certificaciones importantes?
+
+ISO/IEC 27001 (prerequisito), ISO/IEC 27018, SOC 2, GDPR readiness. Atención también a la conformidad de los proveedores cloud (ej. AWS, Azure, GCP).
+
+### ¿Quién es responsable de la compliance en la nube?
+
+Según el modelo de responsabilidad compartida, tanto el cliente como el proveedor tienen roles precisos. La ISO 27018 ayuda a definir estos límites y a documentar cada actividad.
+
+### ¿Sirve también para SaaS?
+
+Sí, especialmente para software que trata datos sensibles de usuarios o clientes. Es una ventaja competitiva frente a los clientes finales y en licitaciones públicas.
+
+### ¿Es suficiente la certificación del proveedor cloud?
+
+No. La responsabilidad permanece también del titular del tratamiento (tú). Debes verificar políticas, controles y prácticas de seguridad en todo el ciclo de vida de los datos.
+
+### ¿Puedo certificarme aunque use múltiples proveedores cloud?
+
+Sí. Algunas empresas ofrecen soluciones multi-cloud y herramientas para gestionar la compliance ISO 27018 también en entornos complejos y distribuidos.
+
+### ¿Existen herramientas automáticas para la compliance?
+
+Sí. Algunos proveedores ofrecen herramientas para clasificación de datos, análisis de logs, verificación de políticas y audit trail. Sin embargo, la guía humana sigue siendo esencial para una conformidad real.
