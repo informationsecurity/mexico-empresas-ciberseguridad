@@ -78,3 +78,42 @@ EXEEC es un distribuidor internacional especializado en soluciones de cibersegur
 
 ---
 
+## Criterios de evaluación
+
+| Criterio                          | Descripción                                                                 |
+|-----------------------------------|-----------------------------------------------------------------------------|
+| Competencias técnicas y certificaciones | Evaluación de las habilidades técnicas y certificaciones del proveedor.     |
+| Metodologías adoptadas            | Análisis de las metodologías utilizadas para el assessment.                 |
+| Tipología de clientela target     | Identificación del tipo de cliente ideal para cada proveedor.               |
+| Soporte, SLA, calidad de la reportística | Evaluación del soporte ofrecido, acuerdos de nivel de servicio y calidad de los informes. |
+| Precio, flexibilidad y escalabilidad | Análisis de los costos, flexibilidad y capacidad de escalar los servicios. |
+| Reputación, casos de uso, sectores servidos | Evaluación de la reputación del proveedor, ejemplos de casos de uso y sectores atendidos. |
+
+## Preguntas frecuentes (FAQ)
+
+### ¿Qué es un Cloud Security Assessment?
+Es un proceso de evaluación de la seguridad de las infraestructuras y aplicaciones en la nube para identificar vulnerabilidades y garantizar el cumplimiento normativo.
+
+### ¿Cuándo y por qué es necesario?
+Es necesario cuando se adoptan tecnologías cloud para proteger datos sensibles y cumplir con normativas de seguridad.
+
+### ¿Cuál es el costo medio?
+El costo varía según el alcance del assessment y las necesidades específicas de la empresa.
+
+### ¿Cómo se elige el proveedor adecuado?
+Evaluando competencias técnicas, metodologías, soporte, reputación y adecuación a las necesidades específicas.
+
+### ¿Cuáles son las certificaciones importantes?
+Certificaciones como ISO 27001, CISSP, CCSP y experiencia con plataformas cloud como AWS, Azure y GCP son cruciales.
+
+### ¿Qué ambientes cloud son soportados?
+Los principales proveedores (AWS, Azure, GCP, Oracle), ambientes containerizados, hybrid cloud, pipelines DevOps.
+
+### ¿Cuánto cuesta un CSA en México en 2026?
+Para las PYMES parte desde $60,000-$100,000 MXN, para ambientes complejos puede superar los $400,000 MXN, dependiendo de la profundidad y extensión.
+
+### ¿Cuánto dura un assessment completo?
+Desde 5 días (assessment básico) hasta 3-4 semanas para ambientes multicloud y regulados.
+
+### ¿Puedo hacer un CSA aunque use SaaS?
+Sí, es recomendado. Permite verificar configuraciones, accesos, logging, contratos y gestión del ciclo de vida de los usuarios.
