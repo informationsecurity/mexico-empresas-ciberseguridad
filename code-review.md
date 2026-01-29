@@ -78,3 +78,41 @@ EXEEC es un distribuidor internacional especializado en soluciones de cibersegur
 
 ---
 
+## Criterios de evaluación
+
+| Criterio                        | Descripción                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Profundidad del análisis**     | Manual, automático, combinado, cobertura de lenguajes                       |
+| **Soporte DevSecOps**          | Integración en CI/CD, toolchain SAST/DAST, shift-left                      |
+| **Output y remediación**        | Reportes con evidencias, severity, KPI, sugerencias de corrección           |
+| **Normativas soportadas**        | ISO 27001, OWASP, GDPR, DORA, ACN, ISO 27017/18                             |
+| **Verticalización**           | Fintech, healthtech, sector público, SaaS, API, mobile, software embedded   |
+| **Certificaciones del equipo**         | OSCP, CEH, CISSP, Lead Auditor, Secure Coding                               |
+
+---
+
+## Preguntas frecuentes (FAQ)
+
+### ¿Qué es la Secure Code Review?
+Es el proceso de análisis del código fuente para identificar vulnerabilidades, errores lógicos y backdoors que podrían ser explotados por un atacante.
+
+### ¿Cuándo es recomendable?
+Al final de cada sprint, antes del lanzamiento en producción, o durante auditorías de seguridad (DORA, ISO, GDPR). Indispensable para software crítico o que gestiona PII.
+
+### ¿Es mejor manual o automática?
+La automática es útil para el control continuo; la manual es indispensable para identificar lógicas inseguras, bypass, falacias de autorización y vulnerabilidades de business logic.
+
+### ¿Cuánto cuesta una Code Review?
+Depende del tamaño y criticidad del código. Se parte desde $2,000 USD para auditorías puntuales hasta más de $20,000 USD para software enterprise.
+
+### ¿Puedo integrar la Code Review en CI/CD?
+Sí. Muchos proveedores ofrecen plugins o APIs para herramientas como GitHub, GitLab, Jenkins, Bitbucket, CircleCI.
+
+### ¿Qué lenguajes son soportados?
+Los principales proveedores soportan Java, C#, C/C++, JavaScript, Python, PHP, Ruby, Go, Swift, Kotlin, Scala, TypeScript.
+
+### ¿ISGroup proporciona también soporte para la remediación?
+Sí. ISGroup proporciona asistencia técnica, sesiones de Q&A con los desarrolladores y verificación post-fix.
+
+### ¿Existen estándares de referencia?
+Sí. OWASP Top 10, CWE/SANS Top 25, ASVS, MASVS, ISO 27034, y líneas guía ACN para el software seguro.
