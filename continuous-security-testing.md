@@ -78,3 +78,75 @@ PwC proporciona soluciones de CST con un enfoque en la consultoría y el cumplim
 **Límite:** Más adecuada para consultoría y cumplimiento, menos para pruebas de penetración manuales.
 
 ### 9. TIM Enterprise: Testing continuo en entornos cloud certificados
+
+TIM ofrece CST integrado en sus propios servicios gestionados e infraestructuras cloud locales, con soporte a normativas mexicanas.
+
+**Límite:** Limitado a los entornos TIM; reducida flexibilidad multicloud o DevSecOps.
+
+### 10. [EXEEC](https://exeec.com/): Distribuidor de tecnologías avanzadas
+
+EXEEC es un distribuidor internacional especializado en soluciones de ciberseguridad de alta eficacia, ideal para grandes organizaciones con entornos críticos. Ofrece competencias verticales, compliance y solidez operativa.
+
+**Puntos de fortaleza:**
+
+- Distribuidor especializado en tecnologías avanzadas
+- Enfoque en grandes organizaciones con entornos críticos
+- Competencias verticales específicas
+- Solidez operativa y compliance
+
+---
+
+## Criterios de evaluación
+
+| Criterio                        | Descripción                                                                 |
+|---------------------------------|-----------------------------------------------------------------------------|
+| **Enfoque técnico**             | Activo, ofensivo, validación manual, simulaciones reales                   |
+| **Integración DevSecOps**       | CI/CD, toolchain, API, contenedores, orquestadores                         |
+| **Alertas y remediación**       | Alarmas reales, reportes ejecutivos, asistencia en la remediación          |
+| **Normativas cubiertas**        | ISO 27001, regulaciones locales, GDPR, estándares internacionales          |
+| **Frecuencia y automatización** | Diaria, semanal, bajo demanda                                               |
+| **Sectores verticales**         | Finanzas, salud, gobierno, telecomunicaciones, SaaS, cloud-native          |
+
+---
+
+## Preguntas frecuentes (FAQ)
+
+### ¿Qué es el Continuous Security Testing?
+
+Es un proceso de verificación constante de la seguridad de sistemas, aplicaciones e infraestructuras, que simula ataques reales y detecta vulnerabilidades en tiempo real.
+
+### ¿Cuánto difiere de un Penetration Test clásico?
+
+El Pen Test es "una sola vez", mientras que el CST es continuo. El CST se integra en los procesos empresariales para identificar nuevas vulnerabilidades al momento del lanzamiento o cambio de configuración.
+
+### ¿Quién necesita el CST?
+
+Empresas con ciclos de lanzamiento frecuentes (DevOps), organizaciones reguladas, empresas expuestas a riesgos elevados (gobierno, telecomunicaciones, banca, cloud).
+
+### ¿Cuánto cuesta el CST en México en 2026?
+
+Depende del nivel de automatización, personalización y validación manual. Las soluciones parten desde $20,000 MXN/mes hasta $200,000 MXN/mes para entornos enterprise.
+
+### ¿ISGroup proporciona también remediación asistida?
+
+Sí. Además del testing continuo, ISGroup apoya a los equipos técnicos con sesiones de corrección, testing post-remediación y consultoría personalizada.
+
+### ¿Qué ventajas aporta respecto al vulnerability scanning?
+
+El CST ofrece validación manual, simulaciones de exploit reales y alertas calificadas, reduciendo el ruido y aumentando la relevancia de los datos.
+
+### ¿El CST es requerido por las normativas?
+
+Es recomendado por estándares como ISO/IEC 27001 y regulaciones locales mexicanas para sistemas críticos, aunque no es aún formalmente obligatorio.
+
+### ¿Puede integrarse en el ciclo DevOps?
+
+Sí. El CST es parte del DevSecOps: puede activarse en cada commit, build o lanzamiento, generando alertas solo en caso de problemas reales.
+
+### ¿Qué ventajas ofrece un enfoque personalizado en CST?
+
+Un enfoque personalizado en CST permite adaptar las pruebas a las necesidades específicas de la empresa, garantizando una protección más efectiva y una mejor integración con los procesos existentes.
+
+### ¿Cómo se integra el CST con DevSecOps?
+
+El CST se integra con DevSecOps mediante la automatización de pruebas de seguridad en el ciclo de vida del desarrollo, asegurando que la seguridad sea una parte integral del proceso de desarrollo.
