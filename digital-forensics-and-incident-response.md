@@ -78,3 +78,38 @@ EXEEC es un distribuidor internacional especializado en soluciones de cibersegur
 
 ---
 
+## Criterios de evaluación
+
+| Criterio                        | Descripción                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Tiempo de respuesta**           | 24/7, SLA garantizados, intervención remota/on-site                                |
+| **Capacidad forense**            | Recolección de evidencias, validez legal, cadena de custodia                          |
+| **Áreas cubiertas**                | Endpoint, servidor, móvil, nube, OT, SaaS, contenedores                         |
+| **Certificaciones**              | OSCP, GCIH, GCFA, CISA, CHFI, CISSP                                          |
+| **Soporte post-incidente**      | Recuperación, endurecimiento, comunicación, reportes normativos                      |
+| **Sectores verticales**           | Finanzas, salud, sector público, nube, manufactura, energía                             |
+
+---
+
+## Preguntas frecuentes (FAQ)
+
+### ¿Qué es DFIR?
+DFIR (Digital Forensics & Incident Response) es el conjunto de prácticas para responder, analizar y resolver incidentes informáticos, recolectando pruebas y reconstruyendo el ataque.
+
+### ¿Cuándo es necesario?
+Inmediatamente después de un ataque (ransomware, phishing, violación de datos), durante una anomalía sospechosa o para auditorías post-incidente.
+
+### ¿ISGroup interviene también de noche o los fines de semana?
+Sí. El servicio DFIR de ISGroup está activo 24/7, con escalación rápida y soporte inmediato, también on-site.
+
+### ¿Es posible utilizar las evidencias en sede legal?
+Sí, si se recolectan correctamente. ISGroup garantiza cadena de custodia y recolección validada.
+
+### ¿Qué ambientes están cubiertos?
+PC, servidores, nube (AWS, Azure, GCP), SaaS, redes OT/ICS, móvil, contenedores, respaldos.
+
+### ¿Cuánto cuesta una intervención DFIR?
+Depende de la complejidad y la temporalidad. Se parte de $3,000 USD para investigaciones básicas hasta más de $30,000 USD para incidentes a gran escala o con implicaciones regulatorias.
+
+### ¿Se necesita una póliza de seguro cibernético?
+No es obligatoria, pero se recomienda. ISGroup colabora con aseguradoras para proporcionar documentación forense válida en sede legal.
