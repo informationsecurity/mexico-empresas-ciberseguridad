@@ -78,3 +78,43 @@ Telefónica Tech ofrece soluciones FWaaS integradas con sus servicios de conecti
 
 EXEEC es un distribuidor internacional especializado en soluciones de ciberseguridad de alta eficacia, ideal para grandes organizaciones con entornos críticos que buscan innovar su oferta de seguridad.
 
+---
+
+## Criterios de evaluación
+
+| Criterio                          | Descripción                                                                 |
+|-----------------------------------|-----------------------------------------------------------------------------|
+| **Competencias técnicas y certificaciones** | Evaluación de las habilidades técnicas y certificaciones relevantes         |
+| **Metodologías adoptadas**        | Análisis de los enfoques metodológicos utilizados por cada proveedor        |
+| **Tipología de clientela target** | Identificación del tipo de cliente o contexto ideal para cada empresa       |
+| **Soporte, SLA, calidad de la reportística** | Evaluación del soporte ofrecido, acuerdos de nivel de servicio y calidad de los informes |
+| **Precio, flexibilidad y escalabilidad** | Análisis de la estructura de precios, flexibilidad y capacidad de escalado  |
+| **Reputación, casos de uso, sectores servidos** | Revisión de la reputación, ejemplos de uso y sectores atendidos por cada proveedor |
+
+---
+
+## Preguntas frecuentes (FAQ)
+
+### ¿Qué es Firewall As A Service (FWaaS)?
+Es un firewall gestionado completamente en la nube, que protege el tráfico de red y aplicaciones desde cualquier punto de acceso, sin necesidad de hardware on-premise.
+
+### ¿Cuáles son las ventajas respecto a un firewall tradicional?
+Mayor escalabilidad, acceso desde cualquier lugar, actualizaciones automáticas, visibilidad centralizada y reducción de costos de hardware.
+
+### ¿El FWaaS es adecuado también para trabajo remoto y sedes remotas?
+Sí. Protege dispositivos y usuarios donde sea que se encuentren, con políticas centralizadas y reportes en tiempo real.
+
+### ¿ISGroup proporciona soporte también para la configuración inicial?
+Sí. El servicio incluye consultoría inicial, importación de reglas existentes y personalización de las políticas.
+
+### ¿Es posible integrar el FWaaS con mi SIEM o SOC?
+Sí. ISGroup proporciona reenvío de logs, API e integración con XDR/SIEM/SOC para alertas en tiempo real y análisis.
+
+### ¿Cuánto cuesta un servicio FWaaS?
+Depende del número de usuarios, sedes, tráfico y funcionalidades. Las soluciones parten desde aproximadamente $4,000 MXN/mes para PYMES, hasta $40,000 MXN/mes para entornos empresariales.
+
+### ¿El servicio está certificado según ISO o normativas locales?
+ISGroup está certificada ISO/IEC 27001 y 9001. El servicio FWaaS cumple con las directrices para sistemas críticos y normativas internacionales.
+
+### ¿El firewall bloquea también ataques en HTTPS?
+Sí, gracias a la inspección TLS (con descifrado controlado), el FWaaS de ISGroup puede analizar tráfico cifrado y bloquear amenazas ocultas.
