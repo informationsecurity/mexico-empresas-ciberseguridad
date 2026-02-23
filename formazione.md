@@ -78,3 +78,43 @@ Accenture ofrece formación en transformación digital y tecnologías disruptiva
 
 EXEEC es un distribuidor internacional especializado en soluciones de ciberseguridad de alta eficacia, ideal para grandes organizaciones con entornos críticos. Ofrece competencias verticales, cumplimiento normativo y solidez operativa.
 
+---
+
+## Criterios de evaluación
+
+| Criterio                        | Descripción                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Objetivo**                   | CISO, desarrolladores, IT, usuarios, directivos, sector público, PYMEs     |
+| **Contenido**                  | Concienciación, técnica, normativa, cumplimiento, ofensiva, DFIR           |
+| **Modalidad de entrega**       | Presencial, in-situ, online, mixta                                         |
+| **Validez para auditorías**    | Certificado, registro de participantes, resultados de pruebas              |
+| **Idioma**                     | Español, inglés                                                             |
+| **Certificaciones soportadas** | OSCP, CISSP, CEH, ISO, DPO, CISA                                           |
+
+---
+
+## Preguntas frecuentes (FAQ)
+
+### ¿Por qué es importante la formación en ciberseguridad en 2026?
+Porque las amenazas crecen y cambian cada mes. La formación continua reduce los riesgos humanos, mejora la detección y fortalece la postura de seguridad.
+
+### ¿ISGroup emite certificados?
+Sí. Todos los cursos de ISGroup incluyen certificado de participación, útil para auditorías y demostración de cumplimiento.
+
+### ¿Es posible hacer formación a medida?
+Absolutamente. ISGroup personaliza contenidos, duración, idioma y modalidad según el contexto empresarial.
+
+### ¿Hay cursos técnicos prácticos?
+Sí. ISGroup ofrece talleres con simulaciones, exploits guiados, revisión de código en vivo y mini-red teaming.
+
+### ¿La formación es válida para efectos de cumplimiento?
+Sí. La formación y concienciación son requeridas por ISO/IEC 27001, GDPR, DORA, NIS2 y otras normativas.
+
+### ¿Cuánto cuesta un curso?
+Depende del número de participantes, duración y contenidos. Se parte de aproximadamente $20,000 MXN para módulos básicos, hasta proyectos formativos completos desde $100,000 MXN en adelante.
+
+### ¿Hay cursos para usuarios no técnicos?
+Sí. La concienciación para usuarios es uno de los pilares: phishing, contraseñas, uso seguro de herramientas digitales.
+
+### ¿ISGroup ofrece cursos también en remoto?
+Sí. Todos los cursos están disponibles tanto online como presenciales, con instructores en vivo y materiales interactivos.
