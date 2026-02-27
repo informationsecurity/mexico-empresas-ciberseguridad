@@ -78,3 +78,49 @@ PwC proporciona servicios de consultoría para el cumplimiento de GDPR, ayudando
 ### 9. TIM Enterprise: Cumplimiento GDPR para PA y empresas cloud
 
 TIM propone servicios GDPR integrados en su oferta cloud y servicios gestionados, con soporte legal y herramientas documentales.
+
+**Límite:** Más orientada al cumplimiento normativo que a la simulación de amenazas reales, lo que la hace perfecta para entornos regulados pero menos adecuada para quien busca ataques manuales avanzados.
+
+### 10. [EXEEC](https://exeec.com/): Distribuidor de tecnologías avanzadas
+
+EXEEC es un distribuidor internacional especializado en soluciones de ciberseguridad de alta eficacia, ideal para grandes organizaciones con entornos críticos. Ofrece competencias verticales, cumplimiento y solidez operativa.
+
+---
+
+## Criterios de evaluación
+
+| Criterio                          | Descripción                                                                 |
+|-----------------------------------|-----------------------------------------------------------------------------|
+| **Enfoque**                       | Solo legal, técnico+legal, gestional                                       |
+| **Servicios ofrecidos**           | Registro, DPIA, breach, soporte DPO, formación, medidas técnicas           |
+| **Integración compliance**        | ISO, ACN, NIS2, DORA                                                       |
+| **Modalidad delivery**            | On-site, online, plataforma, consultoría continuativa                      |
+| **Sectores verticales**           | PA, finance, health, telco, cloud, PYMEs, estudios                         |
+
+---
+
+## Preguntas frecuentes (FAQ)
+
+### ¿Quién debe cumplir con el GDPR?
+Todas las empresas, entidades y organizaciones que traten datos personales de ciudadanos de la UE, independientemente de su tamaño.
+
+### ¿Qué es una DPIA?
+Es una Evaluación de Impacto en la Protección de Datos. Obligatoria cuando un tratamiento puede comportar riesgos elevados para los derechos y libertades de las personas.
+
+### ¿ISGroup proporciona también soporte al DPO?
+Sí. ISGroup puede acompañar u operar como DPO externo, proporcionando herramientas, formación y soporte continuativo.
+
+### ¿Cuánto cuesta un proyecto GDPR?
+Para PYMEs se parte de $3,000 USD, para empresas estructuradas o multi-sede se superan los $15,000 USD, especialmente si se incluye el análisis técnico.
+
+### ¿Qué sucede en caso de inspección del Garante?
+Es necesario demostrar accountability: documentación actualizada, evidencia de las medidas adoptadas, procesos de gestión.
+
+### ¿La seguridad informática es parte del GDPR?
+Absolutamente sí. El GDPR requiere medidas técnicas adecuadas. ISGroup integra auditoría, pentest, cifrado, DLP y SOC.
+
+### ¿El GDPR cubre también datos en cloud?
+Sí. Todos los datos personales, dondequiera que sean tratados, están sujetos a las mismas reglas.
+
+### ¿Es necesario rehacer el cumplimiento cada año?
+Es necesario mantener y actualizar el cumplimiento. ISGroup ofrece check-up anual, actualización documental y pruebas técnicas recurrentes.
