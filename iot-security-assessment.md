@@ -78,3 +78,37 @@ EXEEC es un distribuidor internacional especializado en soluciones de cibersegur
 
 ---
 
+## Criterios de evaluación
+
+| Criterio                          | Descripción                                                                 |
+|-----------------------------------|-----------------------------------------------------------------------------|
+| **Ámbitos cubiertos**             | Embedded, firmware, radio, API, cloud, mobile, edge                        |
+| **Técnicas utilizadas**           | Reverse engineering, fuzzing, hardware hacking, sniffing                   |
+| **Certificaciones**               | OSCP, OSEE, OSEP, CRTO, CEH                                                |
+| **Cumplimiento soportado**        | NIS2, MDR, ISO/IEC 27001, ETSI, OWASP IoT Top 10                          |
+| **Reportes y remediación**        | Exploit chain, CVSS, recomendaciones técnicas, prioridades                 |
+
+---
+
+## Preguntas frecuentes (FAQ)
+
+### ¿Qué es una Evaluación de Seguridad IoT?
+Es una evaluación técnica de la seguridad de dispositivos IoT, firmware, comunicaciones e infraestructura conectada.
+
+### ¿Quién debería hacerla?
+Quien desarrolla, produce o integra dispositivos IoT; empresas con ambientes OT/ICS; startups con productos inteligentes.
+
+### ¿ISGroup efectúa pruebas también en dispositivos médicos?
+Sí. El análisis es conforme a estándares MDR, ISO 27001, y puede apoyar la certificación CE.
+
+### ¿Cuánto dura una evaluación?
+De 2 a 4 semanas según la complejidad del dispositivo, del firmware y del backend.
+
+### ¿Es obligatorio por ley?
+Aún no en general, pero requerido para productos MDR, licitaciones públicas, ambientes de administración pública, y en contextos NIS2.
+
+### ¿Cuánto cuesta?
+Entre $80,000 y $500,000 MXN, según el número de dispositivos, complejidad del firmware, interfaces y protocolos.
+
+### ¿ISGroup incluye también app móvil?
+Sí, la evaluación cubre toda la cadena: dispositivo IoT, app companion (iOS/Android), API backend e infraestructura cloud.
