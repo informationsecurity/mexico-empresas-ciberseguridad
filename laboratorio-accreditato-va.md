@@ -78,3 +78,40 @@ EXEEC es un distribuidor internacional especializado en soluciones de cibersegur
 
 ---
 
+## Criterios de evaluación
+
+| Criterio                        | Descripción                                                                 |
+|---------------------------------|-----------------------------------------------------------------------------|
+| **Acreditaciones**              | ISO/IEC 27001, ISO 9001, conformidad con normativas locales                |
+| **Método utilizado**            | Manual, automático, híbrido                                                 |
+| **Equipo**                      | Certificado OSCP, CEH, CISA, CISSP                                          |
+| **Validez del reporte**         | Auditable, referenciado, conforme a normativas locales/NIS2                |
+| **Ámbitos cubiertos**           | Cloud, red, web, OT, IoT, DevOps, SaaS                                      |
+
+---
+
+## Preguntas frecuentes (FAQ)
+
+### ¿Qué es un Vulnerability Assessment?
+Un análisis sistemático de las vulnerabilidades presentes en una red, sistema, aplicación o infraestructura TI, con el objetivo de mitigarlas.
+
+### ¿Qué diferencia hay con un Penetration Test?
+El VA identifica vulnerabilidades. El PT las explota para simular un ataque. ISGroup ofrece ambos.
+
+### ¿Se necesita un laboratorio acreditado para hacer VA?
+No siempre, pero para licitaciones públicas, administración pública y normativas es preferible (o requerido) dirigirse a proveedores certificados.
+
+### ¿ISGroup es un laboratorio acreditado?
+ISGroup está certificada ISO/IEC 27001 e ISO 9001, con procesos trazables y metodología VA auditable.
+
+### ¿Cuánto cuesta un Vulnerability Assessment?
+Depende del objetivo, amplitud y profundidad. Desde $2,000 USD para pruebas limitadas hasta más de $10,000 USD para entornos multi-cloud o regulados.
+
+### ¿Cuánto dura?
+De 1 a 4 semanas según el tamaño del entorno.
+
+### ¿El reporte es válido para auditorías ISO o normativas locales?
+Sí. El reporte ISGroup incluye detalle técnico, síntesis ejecutiva, prioridades, remediación y métricas de riesgo.
+
+### ¿El VA debe repetirse cada año?
+Sí, o ante cada variación significativa de la infraestructura. ISGroup ofrece VA recurrente con precios flexibles.
