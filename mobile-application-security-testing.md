@@ -78,3 +78,41 @@ Symantec proporciona soluciones de seguridad móvil basadas en inteligencia de a
 EXEEC es un distribuidor internacional especializado en soluciones de ciberseguridad de alta eficacia, ideal para grandes organizaciones con entornos críticos. Ofrece competencias verticales, compliance y solidez operativa.
 
 ---
+
+## Criterios de evaluación
+
+| Criterio                        | Descripción                                                                 |
+|---------------------------------|-----------------------------------------------------------------------------|
+| **Plataformas cubiertas**       | iOS, Android, hybrid, PWA                                                   |
+| **Tipos de pruebas**            | Estático (SAST), Dinámico (DAST), Runtime (RASP), API fuzzing               |
+| **Estándares de referencia**    | OWASP MASVS, OWASP Mobile Top 10, GDPR, PCI DSS                             |
+| **Reportes**                    | Detallado, ejecutivo, con remediación y evidencia                           |
+| **Herramientas**                | Frida, Burp Suite, MobSF, jadx, Ghidra, scripts personalizados              |
+
+---
+
+## Preguntas frecuentes (FAQ)
+
+### ¿Qué es un Mobile Application Security Test?
+Es un análisis técnico que verifica la seguridad de una app móvil, incluyendo vulnerabilidades de código, datos, autenticación, cifrado y comunicaciones.
+
+### ¿ISGroup prueba también las API conectadas a la app?
+Sí. El enfoque es end-to-end: app, API, backend, sesiones, identidad y cloud.
+
+### ¿La prueba es compatible con MASVS y OWASP?
+Sí. Todas las pruebas ISGroup siguen los niveles MASVS L1-L2, OWASP Mobile Top 10, y estándares ACN.
+
+### ¿Cuánto cuesta una prueba en una app?
+Entre $3,500 y $12,000 dependiendo del número de funcionalidades, API, plataformas y técnicas requeridas.
+
+### ¿La prueba es invasiva? ¿Puede causar mal funcionamiento?
+No. Todas las actividades son simuladas en ambiente de prueba controlado. Posibilidad de operar en builds específicas (test build).
+
+### ¿Cuánto dura?
+De 1 a 3 semanas según profundidad, características, backend y API.
+
+### ¿El reporte puede usarse para auditorías GDPR o PCI?
+Sí. El reporte ISGroup es detallado, trazable y listo para auditores, CISO, DPO y licitaciones.
+
+### ¿Ofrecen también retesting post-patch?
+Sí. Está incluido gratuitamente dentro de 30 días de la prueba, en issues críticas.
