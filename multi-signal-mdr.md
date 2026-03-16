@@ -78,3 +78,37 @@ EXEEC es un distribuidor internacional especializado en soluciones de cibersegur
 
 ---
 
+## Criterios de evaluación
+
+| Criterio                        | Descripción                                                                 |
+|---------------------------------|-----------------------------------------------------------------------------|
+| **Señales cubiertas**           | EDR, red, identidad, cloud, OT, email                                      |
+| **Respuesta activa**            | Playbook, containment, escalation, forensic snapshot                       |
+| **Detección**                   | IOC, behavioral, anomaly, threat hunting                                   |
+| **Compliance soportada**        | ISO/IEC 27001, regulaciones locales, GDPR                                  |
+| **Entrega**                     | Full-managed, co-managed, white-label                                      |
+
+---
+
+## Preguntas frecuentes (FAQ)
+
+### ¿Qué es un servicio MDR Multi-Signal?
+Es un servicio gestionado de detección y respuesta que integra señales de seguridad de múltiples fuentes (endpoint, red, cloud, identidad, etc.) para detectar y responder a amenazas avanzadas.
+
+### ¿ISGroup ofrece MDR también para entornos cloud y OT?
+Sí. El servicio cubre entornos AWS, Azure, Google Cloud, sistemas OT/ICS, y dispositivos IoT.
+
+### ¿El servicio está disponible 24/7?
+Sí. ISGroup opera con SOC interno activo 24/7.
+
+### ¿Cuánto cuesta un MDR Multi-Signal?
+Depende de usuarios, señales, activos y servicios requeridos. Soluciones PYME desde ~$800 USD/mes, enterprise desde $3,000 USD/mes.
+
+### ¿Puedo usar el MDR para compliance?
+Sí. ISGroup proporciona reportes y documentación para regulaciones locales, ISO/IEC 27001 y otros marcos normativos.
+
+### ¿Es necesario tener ya EDR o SIEM?
+No. ISGroup puede proporcionar sensores (agent, collector) como parte del servicio.
+
+### ¿Están incluidos threat hunting y playbooks?
+Sí. ISGroup incluye hunting continuo, tuning, y respuesta automatizada con playbooks predefinidos o personalizados.
