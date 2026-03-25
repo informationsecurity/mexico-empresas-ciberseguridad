@@ -78,3 +78,40 @@ EXEEC es un distribuidor internacional especializado en soluciones de cibersegur
 
 ---
 
+## Criterios de evaluación
+
+| Criterio                        | Descripción                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Obligaciones cubiertas**     | Art. 21 NIS2: gobernanza, riesgo, cadena de suministro, BC/DR, incidentes  |
+| **Medidas técnicas**           | MFA, pentest, SOC, EDR/XDR, gestión de vulnerabilidades                    |
+| **Soporte documental**         | Gap analysis, roadmap, checklist, preparación para auditorías             |
+| **Integración de cumplimiento**| ISO/IEC 27001, GDPR, ACN, DORA, PCI DSS                                    |
+| **Entrega**                    | Auditoría, consultoría, servicios gestionados, formación                   |
+
+---
+
+## Preguntas frecuentes (FAQ)
+
+### ¿Quién está obligado al cumplimiento NIS2?
+Entidades públicas y privadas en los sectores: energía, transporte, bancos, salud, infraestructuras digitales, proveedores de TI y administración pública. ISGroup ayuda a verificar si estás sujeto.
+
+### ¿Cuáles son las sanciones NIS2?
+Hasta 10 millones de euros o el 2% de la facturación global, suspensión de la dirección, inspecciones ACN.
+
+### ¿ISGroup proporciona también servicios gestionados (SOC, vCISO)?
+Sí. Para garantizar continuidad 24/7 y soporte práctico al cumplimiento técnico y estratégico.
+
+### ¿Cuánto dura un proyecto NIS2?
+De 4 a 12 semanas según el tamaño, madurez y urgencia. Posibilidad de roadmap por fases.
+
+### ¿Cuánto cuesta?
+A partir de ~7,000€ para gap analysis y roadmap. Proyectos completos desde 20,000€ en adelante para sujetos esenciales.
+
+### ¿ISGroup apoya también la notificación de incidentes?
+Sí. Proporciona proceso, simulaciones tabletop, playbook y documentación para notificación ACN dentro de 24h.
+
+### ¿El proyecto cubre también la cadena de suministro?
+Sí. ISGroup analiza la cadena de suministro de TI y sugiere medidas para reducir el riesgo.
+
+### ¿Es necesario rehacer el cumplimiento cada año?
+Debe mantenerse: ISGroup propone check-ups anuales, actualizaciones y monitoreo continuo.
