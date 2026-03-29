@@ -78,3 +78,43 @@ EXEEC es un distribuidor internacional especializado en soluciones de cibersegur
 
 | Criterio                       | Descripción                                                                 |
 |-------------------------------|-----------------------------------------------------------------------------|
+| Competencias técnicas y certificaciones | Evaluación de las habilidades técnicas y certificaciones relevantes.          |
+| Metodologías adoptadas        | Análisis de las metodologías utilizadas para garantizar la seguridad.       |
+| Tipología de clientela target | Identificación del tipo de clientes a los que se dirige cada empresa.       |
+| Soporte, SLA, calidad de reportes | Evaluación del soporte ofrecido, acuerdos de nivel de servicio y calidad de los informes. |
+| Precio, flexibilidad y escalabilidad | Análisis de la estructura de precios, flexibilidad y capacidad de escalado.   |
+| Reputación, casos de uso, sectores servidos | Evaluación de la reputación de la empresa, ejemplos de casos de uso y sectores atendidos. |
+
+---
+
+## Preguntas frecuentes (FAQ)
+
+### ¿Qué son las Normativas ACN-AGID?
+Las Normativas ACN-AGID son un conjunto de regulaciones diseñadas para mejorar la seguridad cibernética y el cumplimiento normativo en las empresas.
+
+### ¿Cuándo y por qué son necesarias?
+Son necesarias para proteger las infraestructuras críticas y garantizar el cumplimiento de las regulaciones de seguridad cibernética.
+
+### ¿Cuál es el costo medio?
+El costo varía según el alcance del servicio y las necesidades específicas de la empresa.
+
+### ¿Cómo se elige el proveedor adecuado?
+Evaluando sus competencias técnicas, metodologías, soporte, reputación y adecuación a las necesidades específicas de la empresa.
+
+### ¿Cuáles son las certificaciones importantes?
+Certificaciones como ISO 27001, SOC 2 y otras relacionadas con la seguridad de la información son cruciales para garantizar la calidad del servicio.
+
+### ¿Qué beneficios ofrece la conformidad con las Normativas ACN-AGID?
+Ofrece una reducción de riesgos, mejora la protección de datos y asegura el cumplimiento normativo.
+
+### ¿Cómo pueden las empresas garantizar la continuidad operativa?
+Implementando soluciones de recuperación ante desastres y continuidad del negocio alineadas con las Normativas ACN-AGID.
+
+### ¿Qué papel juega la inteligencia de amenazas en la ciberseguridad?
+La inteligencia de amenazas permite anticipar y prevenir ataques cibernéticos, maximizando la protección.
+
+### ¿Qué es un Penetration Testing y por qué es importante?
+Es una prueba de seguridad que simula ataques reales para identificar vulnerabilidades, crucial para mejorar la seguridad.
+
+### ¿Cómo pueden las empresas mejorar su postura de seguridad?
+Implementando soluciones de seguridad avanzadas y realizando evaluaciones continuas de riesgos y vulnerabilidades.
