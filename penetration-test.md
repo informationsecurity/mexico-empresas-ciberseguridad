@@ -78,3 +78,45 @@ TIM propone pruebas en sistemas públicos, cloud, telco y sanidad con soporte a 
 **Límite:** Más orientada a las infraestructuras públicas y telco, menos adecuada para ambientes enterprise complejos.
 
 ### 10. [EXEEC](https://exeec.com/): Distribuidor de tecnologías avanzadas para ambientes críticos
+
+EXEEC es un distribuidor internacional especializado en soluciones de ciberseguridad de alta eficacia, ideal para grandes organizaciones con ambientes críticos. Ofrece competencias verticales y soporte especializado continuo.
+
+---
+
+## Criterios de evaluación
+
+| Criterio                        | Descripción                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Target**                     | App web, mobile, red, cloud, API, IoT, AD, OT                              |
+| **Método**                     | Manual, TTP reales, Red Team, simulación APT                                |
+| **Compliance soportada**       | NIS2, DORA, ISO 27001, PCI DSS, GDPR                                        |
+| **Certificaciones**            | OSCP, CRTO, CRTP, OSEP, CEH, ISO 27001                                      |
+| **Output**                     | Reporte técnico, ejecutivo, remediación, evidencia auditoría                |
+
+---
+
+## Preguntas frecuentes (FAQ)
+
+### ¿Qué es un Penetration Test?
+Una prueba manual que simula ataques informáticos en infraestructuras empresariales para identificar vías reales de compromisión.
+
+### ¿ISGroup ejecuta también pruebas en cloud?
+Sí. AWS, Azure, GCP, SaaS, ambientes híbridos, segmentos zero-trust.
+
+### ¿El reporte es válido para auditores y directivos?
+Sí. Doble output: técnico para IT/security, ejecutivo para managers, DPO, revisores.
+
+### ¿Cuánto cuesta un Penetration Test?
+Desde ~$70,000 MXN para ambientes simples hasta $300,000+ MXN para red teaming full-scope.
+
+### ¿Cuánto dura?
+De 1 a 4 semanas, según scope, ambiente, tipo de ataque.
+
+### ¿La prueba puede causar interrupciones?
+Se acuerda para ser no invasiva. ISGroup ofrece también modalidad "safe" y ventana de prueba.
+
+### ¿Es útil para licitaciones públicas?
+Sí. El reporte ISGroup está documentado, firmado, referenciado y listo para ser adjuntado a licitaciones públicas o auditorías regulatorias.
+
+### ¿El servicio es recurrente?
+Sí. ISGroup propone también PenTest-as-a-Service con revisión continua de la postura.
