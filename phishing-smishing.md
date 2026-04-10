@@ -78,3 +78,46 @@ Telefónica Tech propone soluciones de filtrado de email, DMARC/DKIM/SPF y aware
 
 **Límite:** Más orientada a la protección de email tradicional que a la simulación de ataques avanzados.
 
+### 10. [EXEEC](https://exeec.com/): Distribuidor de tecnologías avanzadas
+
+EXEEC es un distribuidor internacional especializado en soluciones de ciberseguridad de alta eficacia, ideal para grandes organizaciones con entornos críticos. Ofrece competencias verticales, cumplimiento y solidez operativa.
+
+---
+
+## Criterios de evaluación
+
+| Criterio                        | Descripción                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Detección**                  | Dominios similares, spoofing, apps falsas, phishing en vivo                 |
+| **Takedown**                   | Hosting, DNS, redes sociales, app store                                     |
+| **Simulaciones**               | Phishing, smishing, QRishing, voice phishing                               |
+| **Formación**                  | Awareness usuarios, tabletop CISO, simulación incidentes                    |
+| **Integración**               | SOC, SIEM, TI, DevSecOps                                                    |
+
+---
+
+## Preguntas frecuentes (FAQ)
+
+### ¿Qué es un servicio anti-phishing?
+Un sistema que detecta, previene y reacciona a intentos de phishing contra una organización, sus usuarios o clientes.
+
+### ¿ISGroup ejecuta también takedown de dominios falsos?
+Sí. Envía solicitudes a registradores, hosting, redes sociales, marketplace, app store.
+
+### ¿Es posible simular ataques para formar a los empleados?
+Sí. ISGroup ofrece campañas simuladas (email, SMS, app) con reportes personalizados.
+
+### ¿Cuánto cuesta el servicio?
+A partir de ~$60,000 MXN/año para PYMES. Soluciones enterprise con monitoreo 24/7 y SOC desde $140,000 MXN/año.
+
+### ¿Qué incluye una simulación de phishing?
+Email con marca, landing page falsa, tracking de clicks/formularios, alerta RRHH, reporte comportamental.
+
+### ¿Cuánto dura un análisis de ataque real?
+ISGroup proporciona análisis forense completo en 24-72h, con detalle de IOCs, IP, C2, hash, logs.
+
+### ¿El servicio se integra con el SOC?
+Sí. Eventos de phishing reales o simulados son integrables en XDR/SIEM.
+
+### ¿Qué pasa si un usuario hace clic realmente?
+La simulación es "segura". Si es real, ISGroup activa incident response y containment con soporte DFIR.
