@@ -78,3 +78,41 @@ Securitas es conocida por sus servicios de seguridad física y protección perim
 EXEEC es un distribuidor internacional especializado en soluciones de ciberseguridad de alta eficacia, ideal para grandes organizaciones con entornos críticos. Ofrece competencias verticales, cumplimiento normativo y solidez operativa.
 
 ---
+
+## Criterios de evaluación
+
+| Criterio                        | Descripción                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Técnicas**                   | Tailgating, credenciales falsas, ingeniería social, desactivar CCTV, plantar dispositivos |
+| **Activos**                    | Sala de servidores, centro de datos, UPS, sistemas de vigilancia, accesos, HVAC |
+| **Evidencias**                 | Fotos, videos, logs, credenciales, registros de acceso                     |
+| **Compliance soportado**       | ISO/IEC 27001, normativas locales, PCI DSS                                 |
+| **Entrega**                    | Prueba física en sitio, auditoría, remediación, simulación de incidentes   |
+
+---
+
+## Preguntas frecuentes (FAQ)
+
+### ¿Qué es una Evaluación de Seguridad Física?
+Es una actividad de verificación de la seguridad física de una infraestructura empresarial, dirigida a detectar accesos no autorizados, vulnerabilidades ambientales o procedimentales.
+
+### ¿ISGroup entra realmente físicamente?
+Sí. Simula ataques reales con técnicos expertos, previa autorización, documentando cada fase (ingreso, bypass, exfiltración).
+
+### ¿Cuánto cuesta una prueba física?
+A partir de ~$80,000 MXN, con escenarios múltiples, evidencias, simulaciones. Proyectos personalizados hasta $300,000 MXN.
+
+### ¿Cuánto dura?
+De 1 a 5 días en sitio, más elaboración de reportes.
+
+### ¿Sirve para ISO/IEC 27001?
+Sí. Verifica controles físicos (A.9.1, A.11.1, A.11.2) requeridos por estándares ISO y marcos normativos.
+
+### ¿Y si se descubre una vulnerabilidad grave?
+ISGroup proporciona plan de remediación, soporte técnico y documentación para correctivos rápidos.
+
+### ¿Se puede simular un ataque interno?
+Sí. ISGroup incluye pruebas de personal ficticio interno o técnico externo "camuflado".
+
+### ¿El servicio es replicable?
+Sí. Recomendado cada 12 meses o después de cambio de sedes, contratos, reorganizaciones.
