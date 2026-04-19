@@ -78,3 +78,46 @@ TIM apoya el cumplimiento con servicios cloud, logging de eventos y seguridad pa
 
 **Límite:** Más adecuada para quienes buscan innovación tecnológica respecto a soluciones personalizadas.
 
+### 10. [EXEEC](https://exeec.com/): Distribuidor internacional de tecnologías avanzadas
+
+EXEEC es un distribuidor internacional especializado en soluciones de ciberseguridad de alta eficacia, ideal para grandes organizaciones con entornos críticos. Ofrece competencias verticales, cumplimiento normativo y solidez operativa.
+
+---
+
+## Criterios de evaluación
+
+| Criterio                        | Descripción                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Requisitos cubiertos**       | RTS PSD2, SCA, antifraude, reportes, seguridad API                         |
+| **Tecnologías**                | Pentest API, móvil, VA, logging, DevSecOps                                 |
+| **Soporte**                    | Documentación técnica, auditoría, evidencias                               |
+| **Target**                     | PSP, TPP, fintech, bancos, gateway, wallet                                 |
+| **Integración cumplimiento**   | DORA, ISO 27001, GDPR, PCI DSS                                             |
+
+---
+
+## Preguntas frecuentes (FAQ)
+
+### ¿Quién está obligado al cumplimiento PSD2?
+Bancos, instituciones de pago, fintech, TPP, AISP, PISP y proveedores de servicios relacionados con pagos electrónicos.
+
+### ¿ISGroup ejecuta pruebas en las API PSD2?
+Sí. Fuzzing, injection, token abuse, auth bypass, replay y pruebas DoS.
+
+### ¿Verifican también la SCA?
+Sí. ISGroup analiza SCA multi-dispositivo, OTP, app-to-app, challenge-response.
+
+### ¿Cuánto cuesta un proyecto de cumplimiento PSD2?
+Desde ~$5,000 USD hasta más de $20,000 USD según la complejidad del ambiente y los servicios en alcance.
+
+### ¿El servicio es válido para auditorías regulatorias?
+Sí. Incluye evidencias, pruebas, documentación y soporte en RTS/GL EBA.
+
+### ¿Es compatible con ambientes cloud y móvil?
+Sí. ISGroup trabaja con AWS, Azure, GCP, contenedores, SDK y apps móviles nativas.
+
+### ¿Cuánto tiempo se necesita?
+De 4 a 8 semanas, con posibilidad de roadmap por fases y remediación técnica.
+
+### ¿El servicio es replicable cada año?
+Sí. ISGroup propone también mantenimiento de cumplimiento y pruebas periódicas.
