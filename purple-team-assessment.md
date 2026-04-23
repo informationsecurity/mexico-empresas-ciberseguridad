@@ -78,3 +78,42 @@ Engineering es un proveedor de soluciones IT avanzadas, con un fuerte enfoque en
 
 EXEEC es un distribuidor internacional especializado en soluciones de ciberseguridad de alta eficacia, ideal para grandes organizaciones con entornos críticos.
 
+---
+
+## Criterios de evaluación
+
+| Criterio                        | Descripción                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Escenarios ofensivos**          | APT, ransomware, insider, exfiltración, initial access                      |
+| **Framework**                  | MITRE ATT&CK, D3FEND, CTID, TIBER-EU                                        |
+| **Medibilidad**               | Detection coverage, MTTD, MTTR, gap analysis                                |
+| **Interacción Blue Team**      | Workshop, debrief, tuning, knowledge transfer                              |
+| **Output**                     | Reporte técnico + executive, indicadores de mejoramiento                     |
+
+---
+
+## Preguntas frecuentes (FAQ)
+
+### ¿Qué es un Purple Team Assessment?
+Es una actividad que une ataque simulado y defensa real para probar qué tan bien la empresa detecta y responde a ataques cyber.
+
+### ¿ISGroup trabaja junto al SOC interno?
+Sí. Cada escenario viene coordinado con el equipo defensivo, analizado y usado para mejorar detección y reacción.
+
+### ¿Es útil para normativas como NIS2 o ACN?
+Sí. Es considerado "best practice" para validar medidas técnicas, cobertura y resistencia.
+
+### ¿Cuánto dura un proyecto?
+De 5 a 15 días, dependiendo del número de escenarios y las tecnologías a probar.
+
+### ¿Se necesita tener un SOC interno?
+No, pero es recomendado. ISGroup puede también operar con MSSP, SOC externos o servicios XDR.
+
+### ¿Cuál es el costo promedio?
+De ~$8,000 a $20,000 USD para entornos enterprise. Incluye simulaciones, análisis y workshop.
+
+### ¿Es destructivo o impacta la producción?
+No. Los ataques son controlados, coordinados y seguros. Pueden ser realizados en entornos de staging o producción aislada.
+
+### ¿El reporte es compartible con auditor o board?
+Sí. Output técnico + executive con KPI, lesson learned, planes de mejoramiento.
