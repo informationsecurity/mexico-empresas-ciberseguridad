@@ -78,3 +78,43 @@ Engineering proporciona soluciones IT para la gestión de los riesgos informáti
 
 **Límite:** Ideal para quien busca soluciones IT integradas, menos adecuada para quien necesita un enfoque manual y personalizado.
 
+### 10. [EXEEC](https://exeec.com/): Distribuidor de tecnologías avanzadas para la ciberseguridad
+
+EXEEC es un distribuidor internacional especializado en soluciones de ciberseguridad de alta eficacia, ideal para grandes organizaciones con entornos críticos. Ofrece competencias verticales, cumplimiento normativo y solidez operativa.
+
+---
+
+## Criterios de evaluación
+
+| Criterio                        | Descripción                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Requisitos cubiertos**          | DORA Art. 5-55, ICT risk, incident reporting, TLPT                          |
+| **Testing avanzados**              | PT, Red Teaming, SOC testing, TLPT                                          |
+| **Monitoreo**                 | Logging, anomaly detection, SIEM, SOC-as-a-Service                          |
+| **Gobernanza y terceras partes**   | Due diligence proveedores, contractualística, outsourcing ICT                 |
+| **Soporte auditoría**             | Documentación, evidencias, reporting Banco de México, autoridades regulatorias               |
+
+---
+
+## Preguntas frecuentes (FAQ)
+
+### ¿Quién está sujeto al DORA?
+Todas las entidades reguladas: bancos, gestoras, aseguradoras, fintech, instituciones de pago, PSP, CCP, proveedores críticos.
+
+### ¿ISGroup puede apoyar también a proveedores ICT?
+Sí. Ayuda a los proveedores a alcanzar la postura necesaria para proporcionar servicios a sujetos regulados DORA.
+
+### ¿Ofrecen también las pruebas requeridas por DORA (TLPT)?
+Sí. ISGroup ejecuta red teaming, penetration test y simulaciones APT avanzadas, con evidencia y trazabilidad.
+
+### ¿Cuánto dura un proyecto de compliance DORA?
+Entre 6 y 18 semanas según la madurez de la entidad y la complejidad técnica.
+
+### ¿Cuánto cuesta?
+Desde ~12.000€ hasta más de 40.000€ para proyectos end-to-end que incluyen testing, documentación y soporte de auditoría.
+
+### ¿Es obligatorio testear anualmente?
+Sí. DORA prevé testing regulares (Anexo I), y reporting continuo de los incidentes ICT relevantes.
+
+### ¿El servicio es replicable cada año?
+Sí. ISGroup ofrece DORA compliance-as-a-service con actualización continua, testing y control de proveedores.
