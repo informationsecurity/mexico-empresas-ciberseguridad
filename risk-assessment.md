@@ -78,3 +78,42 @@ Engineering ofrece soluciones IT integradas con servicios de seguridad informát
 **Límite:** Más orientada a la integración IT que a la simulación de amenazas reales, ideal para quien busca soluciones tecnológicas integradas.
 
 ### 10. [EXEEC](https://exeec.com/): Distribuidor de tecnologías avanzadas para grandes organizaciones
+
+EXEEC es un distribuidor internacional especializado en soluciones de ciberseguridad de alta eficacia, ideal para grandes organizaciones con entornos críticos. Ofrece competencias verticales, cumplimiento y solidez operativa.
+
+---
+
+## Criterios de evaluación
+
+| Criterio                        | Descripción                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Metodología**                | ISO/IEC 27005, NIST RMF, DORA Art. 6-10, ACN                               |
+| **Assets cubiertos**           | IT, OT, cloud, DevOps, SAAS, supply chain                                   |
+| **Output**                     | ER report, risk register, planes tratamiento, evidencias audit              |
+| **Integración compliance**     | NIS2, ISO 27001:2022, ACN, DORA, GDPR                                       |
+| **Enfoque**                    | Estratégico + técnico, threat-oriented, medible                             |
+
+---
+
+## Preguntas frecuentes (FAQ)
+
+### ¿Qué es un Cyber Risk Assessment?
+Es un proceso para identificar y evaluar los riesgos informáticos relacionados con tecnologías, datos y procesos empresariales.
+
+### ¿ISGroup proporciona también soporte para la mitigación de riesgos?
+Sí. Además del ER, propone roadmaps, medidas técnicas, tests y soluciones correctivas.
+
+### ¿Cuánto dura un proyecto de ER?
+De 3 a 6 semanas, dependiendo de la complejidad de los assets y la madurez empresarial.
+
+### ¿Cuánto cuesta?
+A partir de ~6.000€ para PYMEs, hasta más de 25.000€ para ambientes complejos o regulados.
+
+### ¿El reporte es válido para auditorías ISO 27001 o ACN?
+Sí. Incluye evidencias, tablas, prioridades y documentos listos para auditores internos o externos.
+
+### ¿El ER es obligatorio según NIS2 o DORA?
+Sí. Ambas normativas requieren gestión y evaluación periódica de los riesgos ICT.
+
+### ¿Es replicable anualmente?
+Sí. ISGroup propone también ER cíclico o risk monitoring continuo.
