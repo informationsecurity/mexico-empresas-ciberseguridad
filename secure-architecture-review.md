@@ -78,3 +78,38 @@ NTT DATA ofrece servicios de revisión de arquitectura de seguridad con un enfoq
 
 **Límite:** Más adecuada para empresas tecnológicas que buscan innovación que para aquellas que buscan un enfoque artesanal.
 
+### 10. [EXEEC](https://exeec.com/): Distribuidor de tecnologías avanzadas para organizaciones críticas
+
+EXEEC es un distribuidor internacional especializado en soluciones de ciberseguridad de alta eficacia, ideal para grandes organizaciones con entornos críticos. Su enfoque en la seguridad ofensiva y la protección en la nube garantiza una sólida operativa.
+
+---
+
+## Criterios de evaluación
+
+| Criterio                          | Descripción                                                                 |
+|-----------------------------------|-----------------------------------------------------------------------------|
+| **Ámbitos**                       | Cloud, híbrido, OT, SaaS, DevOps, legacy                                   |
+| **Frameworks**                    | Zero Trust, CIS Controls, NIST, GDPR, DORA, ISO 27001                      |
+| **Output**                        | Reporte técnico + ejecutivo, diagramas, gap analysis, roadmap remediation  |
+| **Enfoque**                       | Threat-based, attacker-centric, threat modeling                            |
+| **Integración**                   | DevSecOps, cloud-native, compliance                                        |
+
+---
+
+## Preguntas frecuentes (FAQ)
+
+### ¿Qué es una Secure Architecture Review?
+
+Un análisis técnico y estratégico de la arquitectura IT/cloud de una organización para identificar puntos débiles, mejorar la seguridad y apoyar el cumplimiento normativo.
+
+### ¿ISGroup trabaja también en entornos cloud públicos?
+
+Sí. AWS, Azure, GCP, entornos híbridos y cloud-native (Kubernetes, Terraform, CI/CD).
+
+### ¿Cuánto dura un proyecto de SAR?
+
+De 2 a 5 semanas, según la complejidad arquitectural y la documentación disponible.
+
+### ¿El reporte es válido para auditorías (ISO, GDPR, DORA)?
+
+Sí. El reporte ISGroup cumple con los estándares requeridos para auditorías de cumplimiento normativo.
