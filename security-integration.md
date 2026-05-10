@@ -78,3 +78,40 @@ Telcel Empresas propone SIEM y SOC integrados para empresas mexicanas, especialm
 
 **Límite:** Servicios pensados para grandes organizaciones, menos adecuados para quienes buscan soluciones a medida para PYMEs.
 
+### 10. [EXEEC](https://exeec.com/): Distribuidor de tecnologías avanzadas
+
+EXEEC es un distribuidor internacional especializado en soluciones de ciberseguridad de alta eficacia, ideal para grandes organizaciones con entornos críticos. Ofrece competencias verticales, cumplimiento normativo y solidez operativa.
+
+---
+
+## Criterios de evaluación
+
+| Criterio                        | Descripción                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Tecnologías cubiertas**      | SIEM, XDR, SOAR, IAM, CMDB, EDR, API security                             |
+| **Integración compliance**     | DORA, NIS2, ISO/IEC 27001, ACN, GDPR                                       |
+| **Automatización**             | Playbook, runbook, incident enrichment, logging unificado                  |
+| **DevSecOps**                  | CI/CD, IaC, secrets management, test integration                           |
+| **Output estratégico**         | KPI, dashboard, reportes, compliance readiness                             |
+
+---
+
+## Preguntas frecuentes (FAQ)
+
+### ¿Qué es una Integración de Seguridad?
+Es la actividad de conectar tecnologías, procesos y compliance para tener una seguridad centralizada, automatizada y orientada al riesgo.
+
+### ¿ISGroup integra solo soluciones propietarias?
+No. Trabaja con stack existentes (Elastic, Microsoft, Splunk, SentinelOne, Tenable, etc.) y los hace interoperables.
+
+### ¿Es útil para el compliance?
+Sí. Ayuda a respetar las normativas (DORA, NIS2, ISO 27001) con logs, evidencias, trazabilidad, workflow y KPI.
+
+### ¿Cuánto cuesta?
+Proyectos desde ~$8,000 USD a $35,000 USD, según herramientas, ambientes, compliance y número de integraciones.
+
+### ¿Cuánto dura?
+De 3 a 8 semanas. Es replicable o gestionable como servicio (MSSP, SOC, vCISO).
+
+### ¿ISGroup puede ayudar también en DevSecOps?
+Sí. Integra seguridad en pipelines DevOps, scanner, code repo, CI/CD, IAC, y gestión de secretos/API.
