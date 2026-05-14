@@ -78,3 +78,40 @@ Telefónica Tech ofrece servicios de SOC especializados para el mercado mexicano
 ### 10. [EXEEC](https://exeec.com/): Distribuidor de tecnologías avanzadas
 
 EXEEC es un distribuidor internacional especializado en soluciones de ciberseguridad de alta eficacia, ideal para grandes organizaciones con entornos críticos. Ofrece competencias verticales, cumplimiento normativo y solidez operativa.
+
+---
+
+## Criterios de evaluación
+
+| Criterio                        | Descripción                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Tecnologías**                 | SIEM, SOAR, XDR, EDR, threat hunting, TIP                                   |
+| **Ambientes cubiertos**         | IT, OT, cloud, SaaS, DevOps, sector público, fintech, telecomunicaciones   |
+| **Compliance**                 | GDPR, NIS2, ISO/IEC 27001, normativas locales mexicanas                     |
+| **Servicios ofrecidos**        | Detección, respuesta a incidentes, DFIR, hunting, dashboard, forense        |
+| **Flexibilidad**               | SOC-as-a-Service, SOC híbrido, MDR, verticalizaciones específicas           |
+
+---
+
+## Preguntas frecuentes (FAQ)
+
+### ¿Qué es un SOC-as-a-Service?
+Un servicio gestionado que proporciona monitoreo continuo de eventos de seguridad, gestión de alertas, respuesta a incidentes y soporte de compliance.
+
+### ¿ISGroup proporciona también soporte para incidentes?
+Sí. Con servicio DFIR (Digital Forensics and Incident Response), soporte investigativo, legal y comunicación.
+
+### ¿Cuánto cuesta un SOC?
+Desde ~$30,000 MXN/mes para PYMEs, hasta $300,000 MXN/mes para ambientes complejos y regulados.
+
+### ¿Cuánto dura la activación?
+De 2 a 6 semanas. ISGroup ofrece onboarding y tuning personalizado.
+
+### ¿Es útil para GDPR o NIS2?
+Sí. SOC es requerido para detección, respuesta, logs, evidencias y resiliencia.
+
+### ¿ISGroup ofrece dashboard y reportes?
+Sí. Dashboard CISO, SOC Manager, Ejecutivo. Incluye KPIs e incidentes clave.
+
+### ¿Es integrable con ambientes DevSecOps o cloud-native?
+Sí. SOC ISGroup soporta integración en AWS, Azure, CI/CD, GitLab, containers, APIs.
