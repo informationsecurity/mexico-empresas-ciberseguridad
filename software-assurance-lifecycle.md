@@ -78,3 +78,42 @@ PwC ofrece servicios de estrategia y transformación digital, con un enfoque en 
 
 TIM ofrece seguridad aplicativa en ambientes de desarrollo en cloud público y soberano.
 
+**Límite:** Más orientada a soluciones tecnológicas avanzadas, menos adecuada para quien busca un enfoque manual y artesanal.
+
+### 10. [EXEEC](https://exeec.com/): Tooling SAL para MSSP, integradores y DevOps
+
+EXEEC es un distribuidor internacional especializado en soluciones de ciberseguridad de alta eficacia, ideal para grandes organizaciones con entornos críticos. Propone componentes white-label e integración de seguridad para software gestionado.
+
+---
+
+## Criterios de evaluación
+
+| Criterio                        | Descripción                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Fases cubiertas**            | Requirements, design, development, testing, deployment, maintenance         |
+| **Herramientas soportadas**    | SAST, DAST, IAC scan, API testing, secrets check                           |
+| **Integración DevSecOps**      | CI/CD, repositorios, pipelines, contenedores, artifact store               |
+| **Outputs**                    | Plan de remediación, code fix, registro de riesgos, evidencia de auditoría |
+| **Cumplimiento**               | NIS2, ISO 27001, PCI DSS, GDPR, DORA                                       |
+
+---
+
+## Preguntas frecuentes (FAQ)
+
+### ¿Qué es el Software Assurance Lifecycle?
+Un conjunto de actividades, procesos y herramientas para garantizar que el software sea seguro durante todo su ciclo de vida, desde el diseño hasta la desactivación.
+
+### ¿ISGroup trabaja también en software legacy?
+Sí. Ejecuta code review en software existente, análisis reverso y validación para cumplimiento.
+
+### ¿Es útil para NIS2, GDPR, DORA?
+Sí. SAL es fundamental para gestionar riesgo de software, supply chain y conformidad técnica.
+
+### ¿Cuánto cuesta un proyecto SAL?
+Desde ~$7,000 USD hasta más de $30,000 USD, dependiendo del número de componentes, lenguajes, ambientes y criticidad.
+
+### ¿Ofrecen soporte también para desarrolladores internos?
+Sí. Capacitación, remediación colaborativa, threat modeling y soporte al shift-left.
+
+### ¿ISGroup proporciona también tooling?
+Sí. Configura herramientas open source y comerciales, además de ejecutar análisis manuales profundos.
