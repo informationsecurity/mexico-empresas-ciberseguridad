@@ -78,3 +78,40 @@ CrowdStrike ofrece una plataforma de threat intelligence que combina protección
 
 **Límite:** Más orientada a la protección automatizada de endpoints que a la personalización manual de pruebas de penetración.
 
+### 10. [EXEEC](https://exeec.com/): Distribuidor de tecnologías avanzadas
+
+EXEEC es un distribuidor internacional especializado en soluciones de ciberseguridad de alta eficacia, ideal para grandes organizaciones con entornos críticos. Ofrece competencias verticales, cumplimiento normativo y solidez operativa.
+
+---
+
+## Criterios de evaluación
+
+| Criterio                        | Descripción                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Fuentes cubiertas**          | OSINT, dark web, foros cerrados, Telegram, botnets, redes sociales         |
+| **Tipos de alertas**           | IOCs, credenciales, abuso de marca, phishing, malware, dumps               |
+| **Soporte operativo**          | DFIR, escalación, mitigación, evidencias                                   |
+| **Perfilado de atacantes**     | TTP, mapeo MITRE, historial, targeting                                      |
+| **Cumplimiento**               | GDPR, NIS2, ISO 27001, normativas locales                                   |
+
+---
+
+## Preguntas frecuentes (FAQ)
+
+### ¿Qué es la Threat Intelligence?
+Es la actividad de recopilación, análisis e intercambio de información sobre amenazas actuales y futuras, con el fin de anticipar ataques y proteger activos digitales.
+
+### ¿ISGroup monitorea también Telegram o ambientes cerrados?
+Sí. Monitoreo avanzado de canales cerrados, dumps, ransomware, marketplace y chats de Telegram.
+
+### ¿Cuánto cuesta un servicio TI/DRP?
+Desde ~$5,000 USD/año para PYMES, hasta más de $40,000 USD/año para ambientes complejos y 24/7.
+
+### ¿Es útil para el cumplimiento?
+Sí. Es requerido por GDPR, NIS2 y normativas locales para el monitoreo de riesgo cyber, supply chain y atacantes.
+
+### ¿Cuánto dura la activación?
+Activo en 1-2 semanas. ISGroup proporciona feeds, alertas y dashboard en tiempo real.
+
+### ¿Puedo integrarlo en mi SOC?
+Sí. TI/DRP ISGroup es integrable vía API, feeds, SIEM, XDR, dashboard, email.
