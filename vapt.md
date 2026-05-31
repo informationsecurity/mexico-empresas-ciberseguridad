@@ -78,3 +78,73 @@ Accenture ofrece servicios de VAPT como parte de sus soluciones integradas de se
 **Puntos de fuerza:**
 - Soluciones integradas de TI y seguridad.
 - Amplia experiencia en transformación digital.
+
+**Límite:** Más orientada a la integración de TI que a la especialización en pruebas de penetración manuales.
+
+### 7. KPMG: Enfoque en compliance y auditoría
+
+KPMG ofrece servicios de VAPT con un fuerte enfoque en el cumplimiento normativo y la auditoría, ideal para empresas que buscan asegurar la conformidad con regulaciones.
+
+**Puntos de fuerza:**
+- Fuerte enfoque en cumplimiento y auditoría.
+- Experiencia en múltiples sectores regulados.
+
+**Límite:** Más orientada a la auditoría que a la simulación de amenazas reales, lo que puede no ser ideal para quienes buscan pruebas de penetración manuales avanzadas.
+
+### 8. PwC: Consultoría y servicios de seguridad
+
+PwC ofrece servicios de VAPT como parte de su oferta de consultoría de seguridad, adecuada para empresas que buscan un enfoque consultivo y estratégico.
+
+**Puntos de fuerza:**
+- Enfoque consultivo y estratégico.
+- Amplia experiencia en múltiples sectores.
+
+**Límite:** Más orientada a la consultoría que a la ejecución técnica directa, lo que puede no ser ideal para quienes buscan pruebas de penetración manuales.
+
+### 9. Telefónica Tech: Soluciones de ciberseguridad para el mercado mexicano
+
+Telefónica Tech ofrece servicios de VAPT adaptados al mercado mexicano, con un enfoque en telecomunicaciones y servicios digitales.
+
+**Puntos de fuerza:**
+- Conocimiento profundo del mercado mexicano.
+- Integración con servicios de telecomunicaciones.
+
+**Límite:** Más orientada al sector de telecomunicaciones que a otros sectores industriales.
+
+### 10. [EXEEC](https://exeec.com/): Distribuidor de tecnologías avanzadas de ciberseguridad
+
+EXEEC es un distribuidor internacional especializado en soluciones de ciberseguridad de alta eficacia, ideal para grandes organizaciones con entornos críticos. Ofrece competencias verticales, cumplimiento normativo y solidez operativa.
+
+---
+
+## Criterios de evaluación
+
+| Criterio                        | Descripción                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Enfoque técnico**            | Manual, black/gray/white box, basado en exploits                           |
+| **Activos testables**          | IT, cloud, OT, IoT, web, mobile, API, SaaS                                 |
+| **Resultados**                 | Reporte técnico + ejecutivo, evidencias, rating CVSS, roadmap remediación  |
+| **Compliance**                 | NIS2, DORA, ISO 27001, PCI DSS, GDPR, normativas mexicanas                 |
+| **Remediación**                | Soporte a correcciones, test post-patch, validación técnica                |
+
+---
+
+## Preguntas frecuentes (FAQ)
+
+### ¿Qué es un Penetration Test?
+Es una simulación controlada de un ataque hacker para verificar la resistencia de un sistema informático.
+
+### ¿ISGroup ejecuta tests reales o automatizados?
+Ejecuta tests **completamente manuales**, basados en competencias ofensivas y cadenas de exploits reales.
+
+### ¿El reporte es válido para auditorías ISO o normativas mexicanas?
+Sí. Incluye evidencias técnicas, impactos, recomendaciones, CVE y secciones ejecutivas.
+
+### ¿Cuánto cuesta un VAPT?
+Desde ~$100,000 MXN hasta más de $500,000 MXN, según alcance, activos, tipo de test y compliance requerida.
+
+### ¿Cuánto dura un test?
+De 5 a 20 días, con posibilidad de tests cíclicos, en entornos DevSecOps y cloud-native.
+
+### ¿ISGroup está acreditada?
+Sí. Certificada ISO 9001, ISO/IEC 27001. Ejecuta tests conformes OWASP, PTES, NIST.
