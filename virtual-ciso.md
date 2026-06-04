@@ -78,3 +78,34 @@ EXEEC es un distribuidor internacional especializado en soluciones de cibersegur
 
 ---
 
+## Criterios de evaluación
+
+| Criterio                        | Descripción                                                                 |
+|---------------------------------|-----------------------------------------------------------------------------|
+| **Frameworks adoptados**        | NIST CSF, ISO/IEC 27001, DORA, NIS2, ACN                                   |
+| **Actividades**                 | Risk Assessment, políticas, gobernanza, preparación auditorías, roadmap seguridad |
+| **Verticalización**             | Sectores AP, finanzas, manufactura, salud, SaaS                            |
+| **Comunicación**                | Reportes ejecutivos, soporte board, formación, simulaciones                |
+| **Integración operativa**       | Con SOC, DevSecOps, IAM, compliance, gestión proveedores                   |
+
+---
+
+## Preguntas frecuentes (FAQ)
+
+### ¿Qué es un Virtual CISO (vCISO)?
+Un consultor experto que opera como Chief Information Security Officer externo, proporcionando guía estratégica, compliance, gestión de riesgos y soporte en la toma de decisiones.
+
+### ¿ISGroup acompaña también empresas sujetas a NIS2 y DORA?
+Sí. Proporciona guía completa para el cumplimiento, redacción de políticas, análisis de brechas y soporte operativo.
+
+### ¿Cuánto cuesta un vCISO?
+Desde ~$30,000 MXN/mes para PYMEs, hasta $160,000 MXN/mes para entornos regulados y complejos.
+
+### ¿Cuánto dura el servicio?
+Desde 3 meses hasta contratos anuales. Es escalable, personalizable y se puede activar en pocos días.
+
+### ¿Es útil para ISO/IEC 27001 o auditorías ACN?
+Sí. El vCISO ISGroup coordina y apoya auditorías, documentación, análisis de brechas y remediación.
+
+### ¿Ofrecen reportes para CDA y board?
+Sí. KPI, dashboards, estado de compliance, riesgo residual, roadmap y simulaciones tabletop.
