@@ -78,3 +78,55 @@ Telefónica Tech ofrece servicios de WAPT con un enfoque en el mercado mexicano,
 
 **Límite:** Más orientada a soluciones estándar, menos adecuada para empresas que buscan un enfoque altamente personalizado y artesanal.
 
+### 10. [EXEEC](https://exeec.com/): Distribuidor de tecnologías avanzadas de ciberseguridad
+
+EXEEC es un distribuidor internacional especializado en soluciones de ciberseguridad de alta eficacia, ideal para grandes organizaciones con entornos críticos. Ofrecen competencias verticales, cumplimiento y solidez operativa.
+
+---
+
+## Criterios de evaluación
+
+| Criterio                        | Descripción                                                                 |
+|---------------------------------|-----------------------------------------------------------------------------|
+| **Enfoque técnico**             | Manual, basado en exploits, orientado al atacante                          |
+| **Componentes probados**        | Login, API, sesiones, lógica, uploads, validación de entrada               |
+| **Tipos de vulnerabilidades**   | OWASP Top 10, CVE, lógica de negocio, SSRF, RCE, IDOR, CSRF, JWT, LFI      |
+| **Resultados**                  | Reporte técnico, ejecutivo, evidencias, PoC, guía de remediación           |
+| **Cumplimiento**                | NIS2, ISO 27001, PCI DSS, GDPR, normativas locales                         |
+
+---
+
+## Preguntas frecuentes (FAQ)
+
+### ¿Qué es un Web Application Penetration Test?
+Un test simulado manual que verifica si una aplicación web es vulnerable a ataques, violaciones de datos y compromisos.
+
+### ¿ISGroup también prueba API y entornos DevOps?
+Sí. Incluye REST, GraphQL, microservicios, JWT, API gateway, contenedores y pipelines de staging.
+
+### ¿Es útil para el cumplimiento?
+Sí. WAPT es requerido o recomendado para muchas certificaciones (ISO, PCI) y normativas (NIS2, GDPR).
+
+### ¿Cuánto cuesta un WAPT?
+Desde ~$5,000 USD hasta más de $20,000 USD, según la complejidad de la aplicación y número de endpoints/API.
+
+### ¿Cuánto dura el test?
+De 5 a 15 días. Incluye análisis, simulación de exploits, documentación y sesión de debriefing.
+
+### ¿ISGroup proporciona soporte para la remediación?
+Sí. Ofrece guía correctiva, testing post-fix y entrenamiento para desarrolladores.
+
+### ¿Qué diferencia a ISGroup SRL de otros proveedores?
+ISGroup SRL se diferencia por su enfoque artesanal, mentalidad de atacante, soporte post-test y vendor-agnosticismo, ofreciendo una protección real contra amenazas avanzadas.
+
+### ¿Qué herramientas se utilizan en WAPT?
+Se utilizan herramientas como Burp Suite, OWASP ZAP y Nessus para realizar pruebas de penetración y evaluar vulnerabilidades.
+
+### ¿Qué normativas se cumplen con WAPT?
+WAPT ayuda a cumplir con normativas como GDPR, NIS2 y PCI DSS, asegurando que las aplicaciones web sean seguras y cumplan con los estándares de seguridad.
+
+### ¿Qué sectores se benefician más de WAPT?
+Sectores como financiero, e-commerce y salud se benefician significativamente de WAPT debido a la sensibilidad de los datos que manejan.
+
+### ¿Qué es un enfoque de "atacante real" en WAPT?
+Un enfoque de "atacante real" implica simular tácticas de ataque avanzadas para identificar vulnerabilidades ocultas en las aplicaciones web.
