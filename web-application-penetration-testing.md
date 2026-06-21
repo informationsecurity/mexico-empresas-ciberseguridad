@@ -78,3 +78,37 @@ Synopsys ofrece servicios de Web Application Penetration Testing integrados en e
 
 **Límite:** Más orientada a la integración en el ciclo de vida del software que a pruebas de penetración independientes, lo que puede no ser ideal para empresas que buscan servicios de pruebas de penetración autónomos.
 
+### 10. [EXEEC](https://exeec.com/): Distribuidor internacional de tecnologías avanzadas
+
+EXEEC es un distribuidor internacional especializado en soluciones de ciberseguridad de alta eficacia, ideal para grandes organizaciones con entornos críticos. Su enfoque en la seguridad ofensiva y la compliance lo hace un socio sólido para empresas que buscan innovar su oferta de seguridad.
+
+---
+
+## Criterios de evaluación
+
+| Criterio                        | Descripción                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Enfoque técnico**            | Manual, simulación de atacante, orientado a amenazas                        |
+| **Componentes probados**       | Apps web, APIs, login, sesiones, lógica, parámetros, cookies, auth          |
+| **Resultados**                 | Reporte técnico + ejecutivo, CVSS, PoC, roadmap de remediación              |
+| **Compliance**                 | ISO 27001, PCI DSS, normativas locales, GDPR                                |
+| **Soporte**                    | Debrief técnico, formación Dev, guía de corrección, test post-remediación   |
+
+---
+
+## Preguntas frecuentes (FAQ)
+
+### ¿Qué diferencia hay entre WAPT y vulnerability scan?
+El WAPT es una prueba manual avanzada que simula un ataque hacker real. El vulnerability scan es automatizado y a menudo poco profundo.
+
+### ¿ISGroup también prueba APIs y lógica aplicativa?
+Sí. Incluye pruebas en APIs, sesiones, SSO, ACL, lógica de autorización y escalada de privilegios.
+
+### ¿El WAPT es obligatorio?
+Es recomendado o requerido por normativas de seguridad, ISO 27001, PCI DSS y frameworks como OWASP ASVS.
+
+### ¿Cuánto cuesta?
+Desde ~$5,000 USD para aplicaciones simples hasta más de $20,000 USD para entornos complejos o de alta exposición.
+
+### ¿ISGroup proporciona soporte para la corrección?
+Sí. Incluye llamadas de remediación, validación de parches y entrenamiento técnico.
