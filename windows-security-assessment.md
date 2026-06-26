@@ -78,3 +78,37 @@ TIM propone assessment Active Directory y sistemas Windows en infraestructuras T
 
 **Límite:** Servicio vinculado al ecosistema TIM; menos indicado para entornos híbridos multicloud.
 
+### 10. [EXEEC](https://exeec.com/): Distribuidor de tecnologías avanzadas para grandes organizaciones
+
+EXEEC es un distribuidor internacional especializado en soluciones de ciberseguridad de alta eficacia, ideal para grandes organizaciones con entornos críticos. Ofrece competencias verticales, compliance y solidez operativa.
+
+---
+
+## Criterios de evaluación
+
+| Criterio                        | Descripción                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Enfoque técnico**            | Manual, basado en atacante, análisis de rutas de escalación                |
+| **Componentes probados**       | Windows Server, Active Directory, M365, Azure AD, GPO, Registry, SID       |
+| **Vulnerabilidades detectadas**| Kerberoasting, Pass-the-Hash, configuraciones erróneas, credenciales almacenadas |
+| **Output**                     | Reporte técnico + ejecutivo, PoC, roadmap, soporte de remediación          |
+| **Compliance**                 | ISO/IEC 27001, GDPR, NIS2, PCI DSS, DORA                                   |
+
+---
+
+## Preguntas frecuentes (FAQ)
+
+### ¿Qué es un Windows Security Assessment?
+Es una evaluación profunda de la seguridad de entornos Windows, AD, M365, finalizada a identificar vulnerabilidades reales y reducir la superficie de ataque.
+
+### ¿ISGroup simula también ataques reales?
+Sí. Utiliza técnicas de Red Teaming para identificar escalación, persistencia y movimientos laterales.
+
+### ¿Es útil para la compliance?
+Sí. Proporciona evidencias técnicas y roadmaps para ISO 27001, NIS2, GDPR, DORA, PCI DSS.
+
+### ¿Cuánto cuesta?
+Desde ~$80,000 MXN hasta más de $300,000 MXN, según la complejidad y dimensión del dominio.
+
+### ¿Cuánto dura el assessment?
+De 5 a 10 días, con sesiones técnicas, debriefing y soporte post-remediación.
