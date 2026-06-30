@@ -78,3 +78,27 @@ EXEEC distribuye tecnologías de seguridad inalámbrica de alta especialización
 | **Competencias técnicas y certificaciones** | ISO 27001, CWNA/CWSP, experiencia con Wi‑Fi 6, OT/IoT                      |
 | **Metodologías adoptadas**         | Monitoring pasivo, WIPS/WIDS, threat intelligence                         |
 | **Tipología de clientela objetivo**| PYMEs, empresas, industria, sector público, retail, salud                             |
+| **Soporte, SLA, reportes**        | Alarmas en tiempo real, dashboard, escalación, reportes técnicos/compliance-ready   |
+| **Precio, flexibilidad, escalabilidad** | Paquetes PYMEs vs proyectos empresariales, precios transparentes, modelos de suscripción |
+| **Reputación, casos de uso, sectores** | Referencias, proyectos en contextos sanitarios, industriales, financieros          |
+
+---
+
+## Preguntas frecuentes (FAQ)
+
+### ¿Qué es el Wireless Security Monitoring?
+Es un servicio de monitoreo continuo de las redes Wi‑Fi empresariales para detectar dispositivos no autorizados, ataques inalámbricos (spoofing, rogue AP, deauth), configuraciones erróneas y violaciones de políticas, ofreciendo protección proactiva.
+
+### ¿Cuándo y por qué es necesario?
+Sirve cuando la empresa usa Wi‑Fi extendido (BYOD, invitados, IoT), especialmente si maneja datos sensibles o está sujeta a compliance (PCI DSS, ISO 27001, NIS2). Previene ataques dirigidos a la red inalámbrica, a menudo descuidada respecto a la red cableada.
+
+### ¿Cuál es el costo promedio?
+Desde aproximadamente $40,000 MXN/mes para pequeñas sedes hasta $200,000 MXN/mes para implementaciones multi-sitio con sensorística y soporte 24/7.
+
+### ¿Cómo se elige el proveedor adecuado?
+Verifica competencias técnicas (certificaciones inalámbricas, OT, IoT), metodología (monitoreo pasivo, threat intelligence), tiempos de activación (1‑3 semanas), SLAs, capacidad de integración con SOC/TI.
+
+### ¿Qué certificaciones son importantes?
+ISO/IEC 27001, CWNA/CWSP, experiencia con estándares Wi‑Fi 6, expertos en certificaciones OT e IoT son elementos distintivos.
+
+---
